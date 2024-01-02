@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjust-data&show_icons=true)
+
+
 <!--
 **alexjust-data/alexjust-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
