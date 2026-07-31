@@ -3,16 +3,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3800&pause=1400&color=FFFFFF&center=false&vCenter=true&width=950&lines=The+Multi-Agent+Architecture;Agent2Agent+End-to-End+Systems;Scaling+Agent+Systems;Multi-Agent+Collaboration+Mechanisms"
+    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=FFFFFF&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3800&pause=1400&color=000000&center=false&vCenter=true&width=950&lines=The+Multi-Agent+Architecture;Agent2Agent+End-to-End+Systems;Scaling+Agent+Systems;Multi-Agent+Collaboration+Mechanisms"
+    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=000000&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3800&pause=1400&color=000000&center=false&vCenter=true&width=950&lines=The+Multi-Agent+Architecture;Agent2Agent+End-to-End+Systems;Scaling+Agent+Systems;Multi-Agent+Collaboration+Mechanisms"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=D89A3D&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
     alt="Multi-Agent Systems"
   />
 </picture>
