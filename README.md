@@ -11,9 +11,9 @@
 
 </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjust-data&show_icons=true)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexjust-data)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alexjust-data)
 
 
 <!--
