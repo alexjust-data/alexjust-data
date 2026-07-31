@@ -3,16 +3,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=FFFFFF&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
+    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=FFFFFF&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=000000&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
+    srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=000000&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=D89A3D&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=The+Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=3800&amp;pause=1400&amp;color=D89A3D&amp;center=false&amp;vCenter=true&amp;width=950&amp;lines=Multi-Agent+Architecture%3BAgent2Agent+End-to-End+Systems%3BScaling+Agent+Systems%3BMulti-Agent+Collaboration+Mechanisms&amp;v=20260731-1826"
     alt="Multi-Agent Systems"
   />
 </picture>
